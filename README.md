@@ -11,7 +11,11 @@
 
 ## Game Assets
 
-1. RPG Town Music by [Poltergasm](https://poltergasm.itch.io/rpg-town-music)
-2. Background Image [Game Art 2D](https://www.gameart2d.com/free-platformer-game-tileset.html)
+1. music by SergeQuadrado https://pixabay.com/music/happy-childrens-tunes-life-of-a-wandering-wizard-15549/)
+2. Background Image :https://pngtree.com/freebackground/shading-background-abstract-colorful-background-colorful-art_938007.html
 "# Keep-Standing-game-w-Java" 
 "# Keep-Standing-game-w-Java" 
+
+## Dokumentasi
+![image](https://github.com/MuhammadRizki8/Keep-Standing-game-w-Java/assets/100481579/a02f946e-524e-4ee8-b710-f00e06926097)
+![image](https://github.com/MuhammadRizki8/Keep-Standing-game-w-Java/assets/100481579/1cb7b94b-e341-4071-b332-21f1f33751d9)
